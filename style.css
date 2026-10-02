@@ -46,7 +46,7 @@ body {
    HEADER
 ========================= */
 
-.site-head {
+.main-head {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -416,7 +416,7 @@ tr.rainy:hover {
    FOOTER
 ========================= */
 
-.site-foot {
+.main-foot {
   margin-top: 55px;
 
   padding: 25px 0 5px;
